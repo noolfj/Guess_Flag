@@ -132,7 +132,7 @@ Widget build(BuildContext context) {
             onTap: _showFlagName,
             child: Column(
               children: [
-                SizedBox(height: 250),
+                SizedBox(height: 150),
                 SizedBox(
                   width: 320,
                   height: 200,
